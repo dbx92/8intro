@@ -1,5 +1,3 @@
-things i have learned at bloc
+things i have learned at bloc thus far: 
 
-javascript
-github
-html/css
+command line functions-html/css-git-javascript
