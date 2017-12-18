@@ -1,3 +1,2 @@
-things i have learned at bloc thus far: 
-
-command line functions-html/css-git-javascript
+New text
+Edited December 17th
