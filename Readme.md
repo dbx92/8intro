@@ -1,4 +1,6 @@
-New text
-Edited December 17th
-_italic_
-**bold**
+<ul>
+	<li>New text</li>
+	<li>Edited December 17th</li>
+	<li>_italic_</li>
+	<li>**bold**</li>
+</ul>
